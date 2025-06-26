@@ -1,6 +1,6 @@
 #  Estudos de Programação Orientada a Objetos com C#
 
-Este repositório contém os códigos, desafios e exercícios que desenvolvi durante o curso de **POO com C#** da [Alura](https://www.alura.com.br). O foco principal é aplicar os conceitos fundamentais da orientação a objetos em projetos práticos.
+Este repositório contém os códigos, desafios e exercícios que desenvolvi durante o curso de **POO com C#**. O foco principal é aplicar os conceitos fundamentais da orientação a objetos em projetos práticos.
 
 ##  Conteúdo abordado
 
