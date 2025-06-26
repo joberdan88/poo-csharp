@@ -1,0 +1,14 @@
+C:\Users\jonas\Downloads\Alura\6-C# Herança\obj\Debug\net8.0\6-C# Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\Downloads\Alura\6-C# Herança\obj\Debug\net8.0\6-C# Herança.AssemblyInfoInputs.cache
+C:\Users\jonas\Downloads\Alura\6-C# Herança\obj\Debug\net8.0\6-C# Herança.AssemblyInfo.cs
+C:\Users\jonas\Downloads\Alura\6-C# Herança\obj\Debug\net8.0\6-C# Herança.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Downloads\Alura\6-C# Herança\bin\Debug\net8.0\6-C# Herança.exe
+C:\Users\jonas\Downloads\Alura\6-C# Herança\bin\Debug\net8.0\6-C# Herança.deps.json
+C:\Users\jonas\Downloads\Alura\6-C# Herança\bin\Debug\net8.0\6-C# Herança.runtimeconfig.json
+C:\Users\jonas\Downloads\Alura\6-C# Herança\bin\Debug\net8.0\6-C# Herança.dll
+C:\Users\jonas\Downloads\Alura\6-C# Herança\bin\Debug\net8.0\6-C# Herança.pdb
+C:\Users\jonas\Downloads\Alura\6-C# Herança\obj\Debug\net8.0\6-C# Herança.dll
+C:\Users\jonas\Downloads\Alura\6-C# Herança\obj\Debug\net8.0\refint\6-C# Herança.dll
+C:\Users\jonas\Downloads\Alura\6-C# Herança\obj\Debug\net8.0\6-C# Herança.pdb
+C:\Users\jonas\Downloads\Alura\6-C# Herança\obj\Debug\net8.0\6-C# Herança.genruntimeconfig.cache
+C:\Users\jonas\Downloads\Alura\6-C# Herança\obj\Debug\net8.0\ref\6-C# Herança.dll

@@ -1,0 +1,14 @@
+C:\Users\jonas\Downloads\Alura\5-C# Encapsulamento\bin\Debug\net8.0\5-C# Encapsulamento.exe
+C:\Users\jonas\Downloads\Alura\5-C# Encapsulamento\bin\Debug\net8.0\5-C# Encapsulamento.deps.json
+C:\Users\jonas\Downloads\Alura\5-C# Encapsulamento\bin\Debug\net8.0\5-C# Encapsulamento.runtimeconfig.json
+C:\Users\jonas\Downloads\Alura\5-C# Encapsulamento\bin\Debug\net8.0\5-C# Encapsulamento.dll
+C:\Users\jonas\Downloads\Alura\5-C# Encapsulamento\bin\Debug\net8.0\5-C# Encapsulamento.pdb
+C:\Users\jonas\Downloads\Alura\5-C# Encapsulamento\obj\Debug\net8.0\5-C# Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\Downloads\Alura\5-C# Encapsulamento\obj\Debug\net8.0\5-C# Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\jonas\Downloads\Alura\5-C# Encapsulamento\obj\Debug\net8.0\5-C# Encapsulamento.AssemblyInfo.cs
+C:\Users\jonas\Downloads\Alura\5-C# Encapsulamento\obj\Debug\net8.0\5-C# Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Downloads\Alura\5-C# Encapsulamento\obj\Debug\net8.0\5-C# Encapsulamento.dll
+C:\Users\jonas\Downloads\Alura\5-C# Encapsulamento\obj\Debug\net8.0\refint\5-C# Encapsulamento.dll
+C:\Users\jonas\Downloads\Alura\5-C# Encapsulamento\obj\Debug\net8.0\5-C# Encapsulamento.pdb
+C:\Users\jonas\Downloads\Alura\5-C# Encapsulamento\obj\Debug\net8.0\5-C# Encapsulamento.genruntimeconfig.cache
+C:\Users\jonas\Downloads\Alura\5-C# Encapsulamento\obj\Debug\net8.0\ref\5-C# Encapsulamento.dll

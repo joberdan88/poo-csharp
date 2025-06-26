@@ -1,0 +1,28 @@
+C:\Users\jonas\Downloads\Alura\4-C#Abstracao\bin\Debug\net8.0\4-C#Abstracao.exe
+C:\Users\jonas\Downloads\Alura\4-C#Abstracao\bin\Debug\net8.0\4-C#Abstracao.deps.json
+C:\Users\jonas\Downloads\Alura\4-C#Abstracao\bin\Debug\net8.0\4-C#Abstracao.runtimeconfig.json
+C:\Users\jonas\Downloads\Alura\4-C#Abstracao\bin\Debug\net8.0\4-C#Abstracao.dll
+C:\Users\jonas\Downloads\Alura\4-C#Abstracao\bin\Debug\net8.0\4-C#Abstracao.pdb
+C:\Users\jonas\Downloads\Alura\4-C#Abstracao\obj\Debug\net8.0\4-C#Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\Downloads\Alura\4-C#Abstracao\obj\Debug\net8.0\4-C#Abstracao.AssemblyInfoInputs.cache
+C:\Users\jonas\Downloads\Alura\4-C#Abstracao\obj\Debug\net8.0\4-C#Abstracao.AssemblyInfo.cs
+C:\Users\jonas\Downloads\Alura\4-C#Abstracao\obj\Debug\net8.0\4-C#Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Downloads\Alura\4-C#Abstracao\obj\Debug\net8.0\4-C#Abstracao.dll
+C:\Users\jonas\Downloads\Alura\4-C#Abstracao\obj\Debug\net8.0\refint\4-C#Abstracao.dll
+C:\Users\jonas\Downloads\Alura\4-C#Abstracao\obj\Debug\net8.0\4-C#Abstracao.pdb
+C:\Users\jonas\Downloads\Alura\4-C#Abstracao\obj\Debug\net8.0\4-C#Abstracao.genruntimeconfig.cache
+C:\Users\jonas\Downloads\Alura\4-C#Abstracao\obj\Debug\net8.0\ref\4-C#Abstracao.dll
+C:\Users\jonas\Downloads\Alura\4-C# Abstracao\bin\Debug\net8.0\4-C#Abstracao.exe
+C:\Users\jonas\Downloads\Alura\4-C# Abstracao\bin\Debug\net8.0\4-C#Abstracao.deps.json
+C:\Users\jonas\Downloads\Alura\4-C# Abstracao\bin\Debug\net8.0\4-C#Abstracao.runtimeconfig.json
+C:\Users\jonas\Downloads\Alura\4-C# Abstracao\bin\Debug\net8.0\4-C#Abstracao.dll
+C:\Users\jonas\Downloads\Alura\4-C# Abstracao\bin\Debug\net8.0\4-C#Abstracao.pdb
+C:\Users\jonas\Downloads\Alura\4-C# Abstracao\obj\Debug\net8.0\4-C#Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\Downloads\Alura\4-C# Abstracao\obj\Debug\net8.0\4-C#Abstracao.AssemblyInfoInputs.cache
+C:\Users\jonas\Downloads\Alura\4-C# Abstracao\obj\Debug\net8.0\4-C#Abstracao.AssemblyInfo.cs
+C:\Users\jonas\Downloads\Alura\4-C# Abstracao\obj\Debug\net8.0\4-C#Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Downloads\Alura\4-C# Abstracao\obj\Debug\net8.0\4-C#Abstracao.dll
+C:\Users\jonas\Downloads\Alura\4-C# Abstracao\obj\Debug\net8.0\refint\4-C#Abstracao.dll
+C:\Users\jonas\Downloads\Alura\4-C# Abstracao\obj\Debug\net8.0\4-C#Abstracao.pdb
+C:\Users\jonas\Downloads\Alura\4-C# Abstracao\obj\Debug\net8.0\4-C#Abstracao.genruntimeconfig.cache
+C:\Users\jonas\Downloads\Alura\4-C# Abstracao\obj\Debug\net8.0\ref\4-C#Abstracao.dll
