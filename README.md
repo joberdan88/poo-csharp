@@ -1,4 +1,4 @@
-#  Estudos de Programação Orientada a Objetos com C#
+#  Trabalho com Programação Orientada a Objetos com C# - Construção de aplicações
 
 Este repositório contém os códigos, desafios e exercícios que desenvolvi durante o curso de **POO com C#**. O foco principal é aplicar os conceitos fundamentais da orientação a objetos em projetos práticos.
 
